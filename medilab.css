@@ -1,0 +1,14 @@
+.main{
+    background-image: url(image/one-doctor-holding-clipboard-reads-medical-record-generated-by-ai.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box1{
+    text-align: center;
+}
+
+.fav{
+    font-size: 50px;
+}
